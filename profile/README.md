@@ -1,6 +1,13 @@
 # 👋🏽 Welcome to Seatsurfing 
 
-**Desk sharing, room reservation, free seating, and co-working for enterprises.**
+**Desk sharing, room reservation, free seating, and co-working for enterprises made with ❤️.**
+
+We offer [Seatsurfing](https://seatsurfing.io/) as a fully-hosted Software-as-a-Service (SaaS) at. [Start for free now](https://seatsurfing.io/sign-up)!
+
+## 📦 Repositories
+
+- [**seatsurfing**](https://github.com/seatsurfing/seatsurfing) - Seatsurfing plattform
+- [**seatsurfing.github.io**](https://github.com/seatsurfing/booking-ui) - Seatsurfing website
 
 ## 🔗 Integrations
 
@@ -11,7 +18,7 @@
 
 - [Official Documentation](https://seatsurfing.io/docs)
 
-## 💖 Support
+## 💰 Sponsoring
 
 Love Seatsurfing? Consider [sponsoring the project](https://github.com/sponsors/seatsurfing) to support ongoing development.
 
