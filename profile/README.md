@@ -7,7 +7,6 @@ We offer [Seatsurfing](https://seatsurfing.io/) as a fully-hosted Software-as-a-
 ## 📦 Repositories
 
 - [**seatsurfing**](https://github.com/seatsurfing/seatsurfing) - Seatsurfing plattform
-- [**seatsurfing.github.io**](https://github.com/seatsurfing/seatsurfing.github.io) - Seatsurfing website
 
 ## 🔗 Integrations
 
